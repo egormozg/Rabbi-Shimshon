@@ -6,11 +6,6 @@ body {
     height: 100%;
 }
 
-.container {
-    display: flex;
-    margin-bottom: 2px;
-}
-
 @media (max-width: 550px) {
     .container {
         text-align: center; 
@@ -38,7 +33,9 @@ img {
 }
 
 .container {
-    width: 100%;
+    display: flex;
+    margin-bottom: 2px;
+    width: 90%;
     max-width: 1024px;
     padding: 0 15px;
     margin: 0 auto;
