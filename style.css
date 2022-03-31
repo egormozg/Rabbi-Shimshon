@@ -2,11 +2,10 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: antiquewhite;
     height: 100%;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 750px) {
     .container {
         text-align: center; 
         display: block;
