@@ -6,6 +6,18 @@ body {
     height: 100%;
 }
 
+.info {
+    display: flex;
+    margin-bottom: 2px;
+}
+
+@media (max-width: 700px) {
+    .info {
+        text-align: center; 
+        display: block;
+    }
+}
+
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Palette Mosaic', cursive;
