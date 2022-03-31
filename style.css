@@ -11,7 +11,7 @@ body {
     margin-bottom: 2px;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 550px) {
     .container {
         text-align: center; 
         display: block;
