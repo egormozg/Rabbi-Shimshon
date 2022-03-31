@@ -33,8 +33,6 @@ img {
 }
 
 .container {
-    display: flex;
-    margin-bottom: 2px;
     width: 90%;
     max-width: 1024px;
     padding: 0 15px;
