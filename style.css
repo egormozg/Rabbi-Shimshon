@@ -9,7 +9,6 @@ body {
 @media screen and (max-width: 650px) {
     body {
         background: url(for\ phone.JPG);
-        position: absolute;
     }
     .container {
         text-align: center; 
