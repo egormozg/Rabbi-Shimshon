@@ -8,10 +8,10 @@ body {
 
 @media (max-width: 750px) {
     body {background: url(for\ phone.JPG);
-        height: auto;
-        width: auto;
     }
     .container {
+        height: auto;
+        width: auto;
         text-align: center; 
         display: block;
     }
@@ -21,21 +21,7 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Palette Mosaic', cursive;
     text-align: center;
-    color: white;
 }
-
-/* .img-div {
-    position: relative;
-    text-align: center;
-}
- */
-/* img {
-    margin-top: 15px;
-    width: 300px;
-    /* border-radius: 28px; */
-    position: relative;
-    left: auto;
-} */
 
 .container {
     width: 100%;
