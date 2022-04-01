@@ -6,12 +6,12 @@ body {
     height: 100%;
 }
 
-@media screen and (max-width: 750px) {
-    body {background: url(for\ phone.JPG);
+@media screen and (max-width: 250px) {
+    body {
+        background: url(for\ phone.JPG);
+        position: absolute;
     }
     .container {
-        height: auto;
-        width: auto;
         text-align: center; 
         display: block;
     }
@@ -46,7 +46,7 @@ a.text:hover,
 a.text,
 a {
     text-decoration: none;
-    color: #524f4e;
+    color: white;
 }
 
 section {
@@ -54,7 +54,6 @@ section {
 }
 
 span {
-    color: white;
     padding: 0;
     position: relative;
     text-align: center;
